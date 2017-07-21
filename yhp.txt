@@ -1,6 +1,6 @@
 你好，学习git
 现在加入第二行
-加入第三行
+加入第三行；；此处增加一句话
 Git is a distributed version control system.
 Git is free software.
 
