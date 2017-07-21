@@ -7,7 +7,7 @@ Git is free software.
 现在尝试新的东西
 看看行数是否
 
-下面用来尝试直接在desktop界面操作
+下面用来尝试直接在desktop界面操作；；；此处修改newbranch内的内容
 
 下面来测试branch的使用
 这是Dev的第二行
