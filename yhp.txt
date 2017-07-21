@@ -1,18 +1,3 @@
-你好，学习git
-现在加入第二行
-加入第三行；；此处增加一句话
-Git is a distributed version control system.
-Git is free software.
-
-现在尝试新的东西
-看看行数是否
-
-下面用来尝试直接在desktop界面操作；修改branch；；；；；此处修改newbranch内的内容
-
-下面来测试branch的使用
-这是Dev的第二行
-这是dev的第三行
-
-branch dev the fourth line;
-这是测试newbranch的方法，目前在dev 上工作，想要fix some bug of master;
-这是Dev的文件夹
+﻿这是第一行
+这是第二行
+这是第三行
