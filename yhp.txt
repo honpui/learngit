@@ -8,4 +8,9 @@
 这是第七行，从first敲的
 这是第八行，从master敲
 这是第8行，从first敲的，看冲突
+<<<<<<< HEAD
 这是第九行，master
+=======
+
+这是第10行，from first
+>>>>>>> first
