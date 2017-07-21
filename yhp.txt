@@ -11,6 +11,8 @@ Git is free software.
 
 下面来测试branch的使用
 这是Dev的第二行
-这是dev的第三行
+这是dev的第三行;这句话是额外添加的，为了测试newbranch
 
 branch dev the fourth line;
+
+这是测试newbranch的方法，目前在dev 上工作，想要fix some bug of master;
