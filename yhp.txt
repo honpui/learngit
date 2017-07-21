@@ -14,5 +14,5 @@ Git is free software.
 这是dev的第三行
 
 branch dev the fourth line;
-
+这是测试newbranch的方法，目前在dev 上工作，想要fix some bug of master;
 这是Dev的文件夹
