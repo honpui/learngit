@@ -6,3 +6,5 @@ Git is free software.
 
 现在尝试新的东西
 看看行数是否
+
+下面用来尝试直接在desktop界面操作
